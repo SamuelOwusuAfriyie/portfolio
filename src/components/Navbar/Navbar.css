@@ -1,0 +1,7 @@
+.bottom {
+  height:100px;
+  width:100%;
+  background-color: #A39897;
+  position:absolute;
+  bottom:0;
+}

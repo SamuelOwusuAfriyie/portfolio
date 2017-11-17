@@ -1,0 +1,41 @@
+.skills-header {
+  color:#3AA88F;
+}
+
+.text {
+  text-align: center;
+}
+
+.skills-background {
+  background-color: white;
+}
+
+.node img {
+  width:200px;
+  height:200px;
+
+}
+
+.node {
+  width:280px;
+  height:250px;
+  background-color: lightgreen;
+  margin:auto;
+  padding: 25px;
+  text-align: center;
+}
+
+.javascript {
+  width:280px;
+  height:250px;
+  background-color: lightblue;
+  margin:auto;
+  /*padding: 25px;*/
+  text-align: center;
+}
+
+
+.javascript img {
+  width:300px;
+  height:250px;
+}

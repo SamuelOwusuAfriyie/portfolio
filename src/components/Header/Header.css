@@ -1,0 +1,26 @@
+.header {
+  width: 100%;
+  height: 600px;
+  background-image: url("/images/sam.jpg");
+  background-size: cover;
+  position:relative;
+}
+
+.name {
+  width: 500px;
+  height: 60px;
+  background-color: #3FA691;
+  color: white;
+  margin-top: 17%;
+}
+
+.about p {
+  color:white;
+}
+
+.about {
+  width: 500px;
+  height:150px;
+  /*background-color: #3FA691;
+  opacity:0.5;*/
+}
