@@ -16,7 +16,7 @@ hr {
   margin-bottom: 5%;
 }
 .img {
-  background-image: url("/images/me.jpg");
+  background-image: url("https://i.imgur.com/UhE4EBh.jpg");
   height:650px;
   width:25%;
   background-size: cover;
