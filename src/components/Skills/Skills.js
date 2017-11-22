@@ -9,7 +9,7 @@ class Skills extends React.Component {
         <h1 className="skills-header">Skills</h1>
         <p className="text my-3">Programming languages and tools I use to develop work experience</p>
       </div>
-      <div className="skills">
+      <div className="skills container">
         <div className="row">
           <div className="col-3">
             <div className="node">
@@ -40,6 +40,11 @@ class Skills extends React.Component {
           </div>
           <div className="col-3">
             <img className="img-fluid" src="https://www.dotemplate.com/adt/uploads/2015/02/wordpress-logo-vector-300x300.png"/>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-3">
+            <img className="img-fluid" src="https://cdn.churchm.ag/wp-content/uploads/2011/04/html5-logo.png" />
           </div>
         </div>
       </div>
