@@ -11,13 +11,13 @@ class About extends React.Component {
           </div>
           <hr/>
           <div className="row">
-            <div className="col-6 img">
-
-            </div>
+            <div className="col-md-6 img"></div>
             <div className="col-6">
-              <p className="about-text">Kitsch health goth hell of, gastropub shoreditch keffiyeh hammock mumblecore cliche pabst tattooed activated charcoal knausgaard. Seitan taiyaki chicharrones, typewriter whatever subway tile selvage mlkshk humblebrag pop-up photo booth actually. Fingerstache kitsch air plant semiotics flexitarian helvetica knausgaard. Seitan pinterest small batch coloring book poke narwhal polaroid hell of iPhone brooklyn post-ironic. Live-edge vexillologist jianbing, ramps kitsch ugh green juice blog vinyl artisan. Tofu selfies leggings messenger bag, hella offal humblebrag art party iPhone. Ethical vaporware humblebrag, direct trade la croix venmo synth bespoke freegan live-edge man braid hella prism. Gentrify taxidermy narwhal, semiotics cold-pressed celiac cred butcher la croix locavore franzen skateboard 8-bit. Crucifix next level coloring book, tilde artisan waistcoat church-key. Shabby chic hexagon air plant, chicharrones beard ramps pinterest vinyl asymmetrical. XOXO chicharrones cold-pressed, vaporware four loko enamel pin chillwave plaid godard shoreditch four dollar toast paleo hoodie. Four dollar toast slow-carb meh keytar hashtag pinterest marfa chicharrones shaman direct trade ugh.</p>
-              <button className="btn btn-primary w-25 mx-5">Email</button>
-              <button className="btn btn-warning w-25">Github</button>
+              <p className="about-text">I am Samuel Owusu Afriyie. I have a passion for programming and an overwhelming zeal when it comes to cinematography. I believe in transforming the world with the power of programming.When I'm not working, I'm busily surfing the internet to find out what's new and playing my role as a humanitarian to make the world a beautiful better place for all people & making sure Story Time Production is in safe hands. I am a board member of a hospital whose mission is to provide free medical care to underserved and under-privileged children in West Africa.
+                If you would like to contact me so we develop some cool transforming code as a programmer; send me an email via the email button below and click on the Github button to view my Github projects.
+              </p>
+              <a className="btn btn-primary w-25 mx-5" href="mailto:greatman662@gmail.com">Email</a>
+              <a className="btn btn-warning w-25" href="https://github.com/SamuelOwusuAfriyie">Github</a>
             </div>
           </div>
 

@@ -14,7 +14,7 @@ class Header extends React.Component {
           </div>
           <div className="row">
             <div className="about">
-              <p>Web Developer & Cinematography</p>
+              <p>You become successful at what you do consistently and when you are happy; you can't stop the joy</p>
             </div>
           </div>
         </div>
