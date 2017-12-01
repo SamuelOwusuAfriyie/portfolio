@@ -39,7 +39,7 @@ let Project = () => (
               <div className="row justify-content-center">
                 <div className="col-lg-5">
                   <p className="lead">
-                    This is a Zork style puzzle/rpg game where the player must escape the room! The task is to loacte the key to leave the room. But there is a catch here, if you touch certain items in the room you will get electrocuted and die, if you also play ten moves you will of suffucation and die. Conserve your energy and play smart <br/>
+                    This is a Zork style puzzle/rpg game where the player must escape the room! The task is to loacte the key to leave the room. But there is a catch here, if you touch certain items in the room you will die.Conserve your energy and play smart <br/>
                     This project used the npm package called readline-sync
                   </p>
                 </div>
