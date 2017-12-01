@@ -30,7 +30,7 @@ let Project = () => (
                   </p>
                 </div>
                 <div className="col-lg-5 col-sm-12">
-                  <a href="https://github.com/lexenington/mario-pest-control"><img className="img-fluid project-img mx-auto px-3" alt="..." src="https://i.imgur.com/sCSYZBZ.jpg"/></a>
+                  <a href="https://github.com/lexenington/mario-pest-control"><img className="img-fluid project-img mx-auto px-3" alt="..." src="https://i.imgur.com/pB1Tp5i.png"/></a>
                 </div>
               </div>
             </div>
@@ -44,7 +44,7 @@ let Project = () => (
                   </p>
                 </div>
                 <div className="col-lg-5 col-sm-12">
-                  <a href="https://github.com/lexenington/escape-the-room" ><img className="img-fluid project-img mx-auto px-3" alt="..." src="https://i.imgur.com/5qlSFgl.jpg"/></a>
+                  <a href="https://github.com/lexenington/escape-the-room" ><img className="img-fluid project-img mx-auto px-3" alt="..." src="https://i.imgur.com/fSOUfP7.png"/></a>
                 </div>
               </div>
             </div>
@@ -59,7 +59,7 @@ let Project = () => (
                   </p>
                 </div>
                 <div className="col-lg-5 col-sm-12">
-                  <a href="https://github.com/lexenington/react-blog"><img className="img-fluid project-img mx-auto px-3 " alt="..." src="https://i.imgur.com/GYx1Hnj.jpg"/></a>
+                  <a href="https://github.com/lexenington/react-blog"><img className="img-fluid project-img mx-auto px-3 " alt="..." src="https://i.imgur.com/lDCrwKR.png"/></a>
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@ let Project = () => (
                   </p>
                 </div>
                 <div className="col-lg-5 col-sm-12">
-                  <a href="https://github.com/lexenington/uglythings"><img className="img-fluid project-img mx-auto px-3 " alt="..." src="https://i.imgur.com/XRgG6HE.jpg"/></a>
+                  <a href="https://github.com/lexenington/uglythings"><img className="img-fluid project-img mx-auto px-3 " alt="..." src="https://i.imgur.com/5rTTzjB.png"/></a>
                 </div>
               </div>
             </div>
